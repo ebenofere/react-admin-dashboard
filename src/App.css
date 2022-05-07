@@ -12,5 +12,9 @@
 
 .others {
     flex: 4;
-    background-color: darkcyan;
+}
+
+.link {
+    text-decoration: none;
+    color: inherit;
 }
