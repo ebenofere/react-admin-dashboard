@@ -1,14 +1,13 @@
 import './home.css'
 import FeaturedInfo from '../../components/featuredInfo/FeaturedInfo'
 import Chart from '../../components/chart/Chart'
+import { userData } from '../../dummyData'
 
-export function Home() {
+export default function Home() {
     return (
         <div className='home'>
             <FeaturedInfo />
-            <Chart />
+            <Chart data={userData} title="User Analytics" dataKey="Active User" grid />
         </div >
     )
 }
-
-export default Home
