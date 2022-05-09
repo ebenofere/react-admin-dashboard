@@ -120,8 +120,8 @@
 }
 
 .userUpdateInput {
-    border-bottom: 1px solid gray;
-    border: none;
+    border: 1px solid rgb(232, 232, 232);
+    /* border: none; */
     width: 250px;
     height: 30px;
 }
