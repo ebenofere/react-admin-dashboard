@@ -1,0 +1,1 @@
+import './newProduct.css'
