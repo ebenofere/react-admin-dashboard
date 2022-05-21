@@ -6,3 +6,9 @@
     display: flex;
     margin: 20px;
 }
+
+.featured {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}

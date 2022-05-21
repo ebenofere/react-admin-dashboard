@@ -1,3 +1,68 @@
+export const dataFeaturedInfo = [
+  {
+    id: 1,
+    featuredTitle: "Revenue",
+    featuredMoney: "$2,500",
+    featuredMoneyRate: "-11.4",
+    featuredIcon: "",
+    featuredSub: "Compared to last month",
+  },
+  {
+    id: 2,
+    featuredTitle: "Sales",
+    featuredMoney: "$4,000",
+    featuredMoneyRate: "-67.4",
+    featuredIcon: "",
+    featuredSub: "Compared to last month",
+  },
+  {
+    id: 3,
+    featuredTitle: "Cost",
+    featuredMoney: "$11,800",
+    featuredMoneyRate: "+40.0",
+    featuredIcon: "negative",
+    featuredSub: "Compared to last month",
+  },
+];
+
+export const dataSmallWidget = [
+  {
+    id: 1,
+    url: "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    username: "Ann Keller",
+    title: "Software Engineer",
+    icon: "Display",
+  },
+  {
+    id: 1,
+    url: "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    username: "Brian McKinley",
+    title: "QA Engineer",
+    icon: "Display",
+  },
+  {
+    id: 1,
+    url: "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    username: "Eben Ofere",
+    title: "Software Engineer",
+    icon: "Display",
+  },
+  {
+    id: 1,
+    url: "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    username: "Lana Wilson",
+    title: "Scrum Master",
+    icon: "Display",
+  },
+  {
+    id: 1,
+    url: "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    username: "Simon Nistelrooy",
+    title: "Product Owner",
+    icon: "Display",
+  },
+];
+
 export const userData = [
   {
     name: "Jan",
