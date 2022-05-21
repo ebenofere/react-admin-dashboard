@@ -34,32 +34,67 @@ export const dataSmallWidget = [
     icon: "Display",
   },
   {
-    id: 1,
+    id: 2,
     url: "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
     username: "Brian McKinley",
     title: "QA Engineer",
     icon: "Display",
   },
   {
-    id: 1,
+    id: 2,
     url: "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
     username: "Eben Ofere",
     title: "Software Engineer",
     icon: "Display",
   },
   {
-    id: 1,
+    id: 3,
     url: "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
     username: "Lana Wilson",
     title: "Scrum Master",
     icon: "Display",
   },
   {
-    id: 1,
+    id: 4,
     url: "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
     username: "Simon Nistelrooy",
     title: "Product Owner",
     icon: "Display",
+  },
+];
+
+export const dataBigWidget = [
+  {
+    id: 1,
+    url: "https://images.pexels.com/photos/4172933/pexels-photo-4172933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    username: "Susan Carol",
+    date: "2 Jun 2021",
+    amount: "$150.00",
+    status: "Approved",
+  },
+  {
+    id: 2,
+    url: "https://images.pexels.com/photos/4172933/pexels-photo-4172933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    username: "Michael Roosevelt",
+    date: "2 Jun 2021",
+    amount: "$150.00",
+    status: "Declined",
+  },
+  {
+    id: 3,
+    url: "https://images.pexels.com/photos/4172933/pexels-photo-4172933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    username: "Yemi Carson",
+    date: "07 Mar 2021",
+    amount: "$730.00",
+    status: "Pending",
+  },
+  {
+    id: 4,
+    url: "https://images.pexels.com/photos/4172933/pexels-photo-4172933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    username: "Mayowa Labiyi",
+    date: "24 May 2021",
+    amount: "$213.00",
+    status: "Approved",
   },
 ];
 
